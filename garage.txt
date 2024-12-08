@@ -1,0 +1,51 @@
+My Lovely Ford Focus;Sedan;75;2002;Petrol;Silver
+Toyota Corolla;Sedan;85;2010;Petrol;White
+Honda Civic;Hatchback;90;2015;Diesel;Blue
+Chevrolet Impala;Sedan;120;2005;Petrol;Black
+Volkswagen Golf;Hatchback;105;2008;Diesel;Red
+BMW 3 Series;Sedan;150;2012;Petrol;Silver
+Mercedes-Benz A-Class;Hatchback;140;2017;Diesel;Gray
+Audi A4;Sedan;130;2006;Petrol;Dark blue
+Nissan Qashqai;SUV;110;2018;Petrol;Orange
+Kia Sportage;SUV;115;2020;Diesel;Green
+Hyundai i30;Hatchback;95;2019;Petrol;White
+Mazda 6;Sedan;135;2016;Diesel;Red
+Renault Megane;Hatchback;100;2013;Petrol;Blue
+Peugeot 208;Hatchback;75;2021;Diesel;Black
+Skoda Octavia;Sedan;110;2015;Petrol;Silver
+Subaru Forester;SUV;125;2009;Petrol;Green
+Volvo XC60;SUV;185;2014;Diesel;Gray
+Opel Astra;Hatchback;90;2010;Petrol;Blue
+Fiat Panda;Hatchback;70;2018;Petrol;Yellow
+Jeep Renegade;SUV;150;2017;Diesel;Black
+Tesla Model 3;Sedan;300;2022;Electric;White
+Chevrolet Spark;Hatchback;75;2015;Petrol;Red
+Ford Mustang;Coupe;450;2020;Petrol;Blue
+Dodge Charger;Sedan;370;2019;Petrol;Black
+Toyota Prius;Hatchback;98;2021;Hybrid;White
+Honda Accord;Sedan;160;2013;Petrol;Gray
+Volkswagen Passat;Sedan;125;2007;Diesel;Silver
+Hyundai Tucson;SUV;175;2020;Petrol;Orange
+BMW X5;SUV;265;2016;Diesel;Black
+Mercedes-Benz C-Class;Sedan;155;2014;Petrol;White
+Audi Q5;SUV;200;2018;Diesel;Silver
+Nissan Leaf;Hatchback;150;2022;Electric;Blue
+Kia Rio;Hatchback;88;2019;Petrol;Yellow
+Mazda CX-5;SUV;190;2017;Diesel;Red
+Renault Clio;Hatchback;80;2020;Petrol;Blue
+Peugeot 3008;SUV;160;2019;Diesel;Gray
+Skoda Superb;Sedan;140;2015;Petrol;Black
+Subaru Outback;SUV;175;2021;Petrol;Green
+Volvo S90;Sedan;190;2018;Diesel;Silver
+Opel Insignia;Sedan;130;2014;Petrol;Gray
+Fiat 500;Hatchback;69;2018;Petrol;White
+Jeep Wrangler;SUV;285;2020;Petrol;Black
+Tesla Model X;SUV;670;2022;Electric;White
+Chevrolet Malibu;Sedan;160;2015;Petrol;Blue
+Ford Explorer;SUV;290;2019;Petrol;Red
+Toyota RAV4;SUV;175;2021;Hybrid;Silver
+Honda HR-V;SUV;141;2020;Petrol;Gray
+Volkswagen Tiguan;SUV;190;2018;Diesel;Black
+Hyundai Santa Fe;SUV;200;2021;Petrol;Blue
+BMW i3;Hatchback;170;2020;Electric;White
+Mercedes-Benz GLC;SUV;220;2019;Diesel;Silver
